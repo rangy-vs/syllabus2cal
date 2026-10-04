@@ -1,0 +1,15 @@
+CSE 999: Example Course (fictional syllabus for testing)
+Instructor: Dr. Example     Office hours: Tue 2-3 PM
+
+Schedule
+Week 1 | Sep 24 | Introduction                      | Homework 1 released
+Week 2 | Oct 1  | Arrays and pointers               | Homework 1 due Oct 8 by 11:59 PM
+Week 3 | Oct 8  | Linked structures                 | Quiz 1 in lecture, Fri Oct 11, 2:00 PM
+Week 5 | Oct 22 | Project proposal due 10/22 at 5pm
+Midterm exam: Thursday, October 31 at 6:30 PM, Room 101
+Week 8 | Nov 12 | Final project demo, 11/14
+No class Nov 28 (Thanksgiving holiday)
+Essay draft due December 2 (noon)
+Final exam: Dec 12, 8:00 AM - 11:00 AM
+Make-up policy: late work loses 10%/day. Grades posted Jan 6.
+Spring quarter starts 1/5.
