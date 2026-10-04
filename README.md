@@ -1,6 +1,6 @@
 # syllabus2cal
 
-![ci](../../actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rangy-vs/syllabus2cal/actions/workflows/ci.yml/badge.svg)
 
 Turn a course syllabus (text or PDF) into calendar events you can import into Google/Apple/Outlook Calendar: every exam, quiz and assignment deadline, with reminders.
 
